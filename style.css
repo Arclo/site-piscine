@@ -1,0 +1,21 @@
+
+h1
+{
+    text-align: center;
+}
+
+#Tête_page
+{
+    float: none;
+    position: relative;
+}
+
+#Logo
+{
+    text-align: left;
+}
+
+#Titre
+{
+    text-align: center;
+}
